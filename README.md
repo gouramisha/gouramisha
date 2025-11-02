@@ -15,8 +15,7 @@
   <a href="https://x.com/AmishaGour20418?t=DZ5EsW1kd_896wAsgwBsXw&s=09" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" />
   </a>
-  <a href="https://www.overleaf.com/read/cbkfnhnjwnpd#1ae36b" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  
   </a>
 </p>
 
