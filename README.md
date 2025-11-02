@@ -49,5 +49,5 @@
 ---
 
 ⭐ **Fun Fact:**  
-> “I'm not a great programmer; I'm just a good programmer with great habits.”
+> ““Simplicity is the soul of efficiency.”
 
