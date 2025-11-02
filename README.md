@@ -13,35 +13,4 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="https://x.com/AmishaGour20418?t=DZ5EsW1kd_896wAsgwBsXw&s=09" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" />
-  </a>
-  <a href="https://www.overleaf.com/read/cbkfnhnjwnpd#1ae36b" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Resume%20(Overleaf)-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume Overleaf" />
-  </a>
-  <a href="https://github.com/gouramisha/gouramisha/blob/main/resume_building%20(2).pdf" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Resume%20(PDF)-4B0082?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
-  </a>
-</p>
-
----
-
-📫 **Reach me at:**  
-👉 [amishagour6@gmail.com](mailto:amishagour6@gmail.com)
-
-
-
-
-<!--
-**gouramisha/gouramisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" /
