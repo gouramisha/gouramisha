@@ -15,7 +15,11 @@
   <a href="https://x.com/AmishaGour20418?t=DZ5EsW1kd_896wAsgwBsXw&s=09" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" />
   </a>
-  
+  <a href="https://www.overleaf.com/read/cbkfnhnjwnpd#1ae36b" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Resume%20(Overleaf)-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume Overleaf" />
+  </a>
+  <a href="https://github.com/gouramisha/gouramisha/blob/main/resume_building%20(2).pdf" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Resume%20(PDF)-4B0082?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
   </a>
 </p>
 
@@ -23,6 +27,7 @@
 
 📫 **Reach me at:**  
 👉 [amishagour6@gmail.com](mailto:amishagour6@gmail.com)
+
 
 
 
