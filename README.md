@@ -27,7 +27,7 @@
 
 ---
 
-## 🎉 Random Dev Joke for you!
+## 🎉 Joke for you!
 
 <div align="center">
   <p style="background-color:#04293A; color:#00FFFF; padding:15px; border-radius:10px; font-size:18px; width:80%; border:2px solid #00CED1;">
@@ -41,9 +41,8 @@
 
 <div align="center">
   <p style="background-color:#100720; color:#00FFFF; padding:15px; border-radius:10px; font-size:18px; font-style:italic; width:80%;">
-  “Code never lies, comments sometimes do.”  
+  ““The best error message is the one that never shows up.”.”  
   <br>
-  <span style="color:#FF69B4;">— Ron Jeffries</span>
   </p>
 </div>
 
