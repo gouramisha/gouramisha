@@ -37,7 +37,7 @@
 
 ---
 
-## 💬 Here's a Dev Quote in case you're not into jokes!
+## 💬 Here's a  Quote in case you're not into jokes!
 
 <div align="center">
   <p style="background-color:#100720; color:#00FFFF; padding:15px; border-radius:10px; font-size:18px; font-style:italic; width:80%;">
