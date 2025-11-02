@@ -31,7 +31,7 @@
 
 <div align="center">
   <p style="background-color:#04293A; color:#00FFFF; padding:15px; border-radius:10px; font-size:18px; width:80%; border:2px solid #00CED1;">
-  💬 Programming is like sex: One mistake and you have to support it for the rest of your life.
+  💬 Programming is like $^*: One mistake and you have to support it for the rest of your life.
   </p>
 </div>
 
