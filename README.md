@@ -24,3 +24,31 @@
 
 📫 **Reach me at:**  
 👉 [amishagour6@gmail.com](mailto:amishagour6@gmail.com)
+
+---
+
+## 🎉 Random Dev Joke for you!
+
+<div align="center">
+  <p style="background-color:#04293A; color:#00FFFF; padding:15px; border-radius:10px; font-size:18px; width:80%; border:2px solid #00CED1;">
+  💬 Programming is like sex: One mistake and you have to support it for the rest of your life.
+  </p>
+</div>
+
+---
+
+## 💬 Here's a Dev Quote in case you're not into jokes!
+
+<div align="center">
+  <p style="background-color:#100720; color:#00FFFF; padding:15px; border-radius:10px; font-size:18px; font-style:italic; width:80%;">
+  “Code never lies, comments sometimes do.”  
+  <br>
+  <span style="color:#FF69B4;">— Ron Jeffries</span>
+  </p>
+</div>
+
+---
+
+⭐ **Fun Fact:**  
+> “I'm not a great programmer; I'm just a good programmer with great habits.”
+
